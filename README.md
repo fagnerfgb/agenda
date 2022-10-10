@@ -1,5 +1,5 @@
 ## Agenda de Contatos
-Simples agenda de contatos usando MYSQL e a Linguaguem Java
+Simples agenda de contatos usando MySQL e a Linguaguem Java
 
 SENAC Tatuapé 
 
