@@ -19,6 +19,6 @@ Fagner Geraldes Braga
 
 
 ![GitHub](https://img.shields.io/github/license/fagnerfgb/agenda?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/fagnerfgb/agenda?style=for-the-badge)
-### GitHub Status
+## GitHub Status
 
 ![Fagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=fagnerfgb&show_icons=true&theme=radical)
