@@ -9,7 +9,7 @@ show databases;
 create database agenda;
 
 -- Comando usado para selecionar um banco de dados
-use agenda;
+use dbagenda;
 
 -- Comando usado para excluir um banco de dados
 drop database agenda;
@@ -25,6 +25,14 @@ id int primary key auto_increment,
 nome varchar(50) not null,
 fone varchar(15) not null,
 email varchar(50)
+);
+
+CREATE TABLE contatos (
+idcon int NOT NULL AUTO_INCREMENT,
+nome varchar(50) NOT NULL,
+fone varchar(15) NOT NULL,
+email varchar(50) DEFAULT NULL,
+PRIMARY KEY (idcon)
 );
 
 -- Verificar tabelas do banco de dados
