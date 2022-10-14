@@ -123,16 +123,3 @@ update contatos set nome = 'Fabio Vaz Medeiros', fone = '66666-77777', email = '
 -- Delete (Delete)
 -- Usar where
 delete from contatos where id = 3;
-
-
-
-
-
-
-
-
-
-
-
-
-
